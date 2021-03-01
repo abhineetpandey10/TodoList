@@ -19,7 +19,7 @@ A TodoList app created using React Native
     
     **npm start**
     
-- Replace the 'App.js' file on your device with the one that is present in this repository.
+- Replace the 'App.js' present in your project directory with the one that is present in this repository.
 
 **Congratulations! You are good to go now!**
 
