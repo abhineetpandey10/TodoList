@@ -25,7 +25,7 @@ A TodoList app created using React Native
 
 ## Screenshots
 
-   <image src="https://user-images.githubusercontent.com/54185164/109448644-7309a280-7a6c-11eb-818a-a34761a79a03.png" height=320 width=180/>    <image src="https://user-images.githubusercontent.com/54185164/109448681-8583dc00-7a6c-11eb-84c5-f9fae5757692.png" height=320 width=180 />   <image src="https://user-images.githubusercontent.com/54185164/109448703-946a8e80-7a6c-11eb-91b7-48e30c0aaae6.png" height=320 width=180 /> 
+<center><image src="https://user-images.githubusercontent.com/54185164/109448644-7309a280-7a6c-11eb-818a-a34761a79a03.png" height=320 width=180/>    <image src="https://user-images.githubusercontent.com/54185164/109448681-8583dc00-7a6c-11eb-84c5-f9fae5757692.png" height=320 width=180 />   <image src="https://user-images.githubusercontent.com/54185164/109448703-946a8e80-7a6c-11eb-91b7-48e30c0aaae6.png" height=320 width=180 /><center>
 
 
 
