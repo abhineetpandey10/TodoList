@@ -70,7 +70,7 @@ const styles=StyleSheet.create(
       marginHorizontal:10,
       marginTop:8,
       borderRadius:8,
-      height:150,
+      height:75,
       
       borderTopWidth:2,
       borderColor:'palegoldenrod'
@@ -147,7 +147,7 @@ export default function App()
         <Text style={styles.headerText}>TodoList</Text>
       </View>
       <View style={styles.input}>
-        <TextInput style={styles.inputText} placeholder={"Type something here..."} multiline={true} onChangeText={(text)=>onChangeTextHandler(text)}/>
+        <TextInput style={styles.inputText} placeholder={"Type something here..."} onChangeText={(text)=>onChangeTextHandler(text)}/>
         <View style={styles.addButtonContainer}>
           <TouchableOpacity style={styles.addButton} onPress={()=>onAddHandler()}>
             <Text style={styles.addButtonText} >ADD</Text>
